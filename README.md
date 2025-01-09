@@ -7,16 +7,16 @@ Crypto Cosmos is a dynamic and user-friendly web application developed using HTM
 ## Technologies and Tools
 
 <div align="center">
-  <img src="/public/icons/html.png" alt="HTML"> 
-  <img src="/public/icons/css.png" alt="CSS"> 
-  <img src="/public/icons/js.png" alt="JavaScript"> 
-  <img src="/public/icons/react.png" alt="React"> 
-  <img src="/public/icons/coingecko.png" alt="CoinGecko"> 
-  <img src="/public/icons/npm.png" alt="NPM"> 
-  <img src="/public/icons/vscode.png" alt="Visual Studio Code"> 
-  <img src="/public/icons/git.png" alt="Git"> 
-  <img src="/public/icons/github.png" alt="Github"> 
-  <img src="/public/icons/vercel.png" alt="Vercel">
+  <img src="./public/icons/html.png" alt="HTML" width="50"> 
+  <img src="./public/icons/css.png" alt="CSS" width="50"> 
+  <img src="./public/icons/js.png" alt="JavaScript" width="50"> 
+  <img src="./public/icons/react.png" alt="React" width="50"> 
+  <img src="./public/icons/coingecko.png" alt="CoinGecko" width="50"> 
+  <img src="./public/icons/npm.png" alt="NPM" width="50"> 
+  <img src="./public/icons/vscode.png" alt="Visual Studio Code" width="50"> 
+  <img src="./public/icons/git.png" alt="Git" width="50"> 
+  <img src="./public/icons/github.png" alt="Github" width="50"> 
+  <img src="./public/icons/vercel.png" alt="Vercel" width="50">
 </div>
 
 ## Run Locally
