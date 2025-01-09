@@ -1,6 +1,6 @@
 # Crypto Cosmos
 
-Crypto Cosmos is a dynamic and user-friendly web application developed using HTML, CSS, JavaScript, and React.js, designed to provide real-time insights into the cryptocurrency market. Leveraging the comprehensive data provided by the CoinGecko API, the application offers users access to a wide range of cryptocurrencies, including real-time pricing information, market trends, and historical data. With its intuitive interface and robust data integration, Crypto Cosmos empowers users to make informed decisions and stay abreast of the ever-evolving cryptocurrency landscape.
+Crypto Cosmos is a dynamic and user-friendly web application developed using HTML, CSS, JavaScript, and React.js, designed to provide real-time insights into the cryptocurrency market. Leveraging the comprehensive data provided by the CoinGecko API, the application offers users access to a wide range of cryptocurrencies, including real-time pricing information, market trends, and historical data. With its intuitive interface and robust data integration, Crypto Cosmos empowers users to make informed decisions and stay abreast of the ever-evolving cryptocurrency landscape. This application serves as a valuable resource for both novice and experienced cryptocurrency enthusiasts, providing a user-friendly platform to explore and understand the dynamic world of cryptocurrencies.
 
 ![Logo](/public/crypto-cosmos.png)
 
@@ -17,6 +17,8 @@ Crypto Cosmos is a dynamic and user-friendly web application developed using HTM
   <img src="./public/icons/git.png" alt="Git" width="50"> 
   <img src="./public/icons/github.png" alt="Github" width="50"> 
   <img src="./public/icons/vercel.png" alt="Vercel" width="50">
+  <img src="./public/icons/npm.png" alt="NPM" width="50">
+  <img src="./public/icons/vite.png" alt="Vite" width="50">
 </div>
 
 ## Run Locally
